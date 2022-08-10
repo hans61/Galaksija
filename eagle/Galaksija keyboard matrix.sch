@@ -7805,6 +7805,7 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <wire x1="-22.86" y1="78.74" x2="-15.24" y2="78.74" width="0.1524" layer="91"/>
 <wire x1="-15.24" y1="78.74" x2="-15.24" y2="60.96" width="0.1524" layer="91"/>
 <junction x="-15.24" y="60.96"/>
+<label x="-14.224" y="76.962" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="Q1" class="0">
@@ -7874,6 +7875,7 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <wire x1="7.62" y1="73.66" x2="7.62" y2="81.28" width="0.1524" layer="91"/>
 <wire x1="7.62" y1="81.28" x2="-22.86" y2="81.28" width="0.1524" layer="91"/>
 <junction x="7.62" y="73.66"/>
+<label x="8.636" y="79.756" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="Q2" class="0">
@@ -7943,6 +7945,7 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <wire x1="33.02" y1="73.66" x2="33.02" y2="83.82" width="0.1524" layer="91"/>
 <wire x1="33.02" y1="83.82" x2="-22.86" y2="83.82" width="0.1524" layer="91"/>
 <junction x="33.02" y="73.66"/>
+<label x="34.29" y="82.042" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="Q3" class="0">
@@ -8028,6 +8031,7 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <wire x1="58.42" y1="73.66" x2="58.42" y2="86.36" width="0.1524" layer="91"/>
 <wire x1="58.42" y1="86.36" x2="-22.86" y2="86.36" width="0.1524" layer="91"/>
 <junction x="58.42" y="73.66"/>
+<label x="59.69" y="84.836" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="Q4" class="0">
@@ -8097,6 +8101,7 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <wire x1="86.36" y1="73.66" x2="86.36" y2="88.9" width="0.1524" layer="91"/>
 <wire x1="86.36" y1="88.9" x2="-22.86" y2="88.9" width="0.1524" layer="91"/>
 <junction x="86.36" y="73.66"/>
+<label x="87.63" y="87.122" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="Q5" class="0">
@@ -8166,6 +8171,7 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <wire x1="116.84" y1="73.66" x2="116.84" y2="91.44" width="0.1524" layer="91"/>
 <wire x1="116.84" y1="91.44" x2="-22.86" y2="91.44" width="0.1524" layer="91"/>
 <junction x="116.84" y="73.66"/>
+<label x="118.11" y="89.916" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="Q6" class="0">
@@ -8227,6 +8233,7 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <wire x1="147.32" y1="73.66" x2="147.32" y2="93.98" width="0.1524" layer="91"/>
 <wire x1="147.32" y1="93.98" x2="-22.86" y2="93.98" width="0.1524" layer="91"/>
 <junction x="147.32" y="73.66"/>
+<label x="148.082" y="92.456" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="D0" class="0">
