@@ -23,3 +23,4 @@ https://de.aliexpress.com/item/32852734000.html
 
 ![keyboard schematic](/eagle/Galaksija%20keyboard%20matrix.sch.png)
 
+![keyboard connector pinout](/eagle/Galaksija%20keyboard%20connector.jpg)
