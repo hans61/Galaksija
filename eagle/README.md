@@ -19,8 +19,8 @@ https://de.aliexpress.com/item/32853348805.html
 
 https://de.aliexpress.com/item/32852734000.html
 
-![keyboard pcb](/eagle/Galaksija%20keyboard%20matrix.brd.png)
+![keyboard pcb](/eagle/Galaksija%20keyboard%20matrix%20top.png)
 
-![keyboard schematic](/eagle/Galaksija%20keyboard%20matrix.sch.png)
+![keyboard schematic](/eagle/Galaksija keyboard%20matrix%20sch.png)
 
 ![keyboard connector pinout](/eagle/Galaksija%20keyboard%20connector.jpg)
