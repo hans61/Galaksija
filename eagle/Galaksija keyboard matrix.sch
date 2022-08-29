@@ -7595,7 +7595,7 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <sheet>
 <plain>
 <text x="78.74" y="-40.64" size="2.1844" layer="94">Galaksija keyboard matrix</text>
-<text x="133.096" y="-40.386" size="1.778" layer="94">Rev.2</text>
+<text x="133.096" y="-40.386" size="1.778" layer="94">Rev.3</text>
 </plain>
 <instances>
 <instance part="S2" gate="1" x="-22.86" y="60.96" smashed="yes" rot="R270">
