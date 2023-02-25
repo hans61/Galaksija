@@ -19,7 +19,7 @@ https://de.aliexpress.com/item/32853348805.html
 
 https://de.aliexpress.com/item/32852734000.html
 
-![keyboard pcb](/Galaksija keyboard matrix top.png)
+![keyboard pcb](/Galaksija%20keyboard%20matrix%20top.png)
 
 ![keyboard schematic](/Galaksija%20keyboard%20matrix%20sch.png)
 
