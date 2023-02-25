@@ -19,6 +19,6 @@ Da es mit der aktuellen Firmware des PIC nicht möglich ist, das zwei gleichzeit
 |-----------|--------------|
 | LIST      | ^            |
 | REP       | Rollen       |
-| BRK       | F2           |
+| BRK       | ESC, F2      |
 | DEL       | F1           |
 
