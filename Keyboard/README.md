@@ -19,27 +19,27 @@ https://de.aliexpress.com/item/32853348805.html
 
 https://de.aliexpress.com/item/32852734000.html
 
-![keyboard pcb](/Galaksija%20keyboard%20matrix%20top.png)
+![keyboard pcb](/Keyboard/Galaksija%20keyboard%20matrix%20top.png)
 
-![keyboard schematic](/Galaksija%20keyboard%20matrix%20sch.png)
+![keyboard schematic](/Keyboard/Galaksija%20keyboard%20matrix%20sch.png)
 
-![keyboard connector pinout](/Galaksija%20keyboard%20connector%20pinout.jpg)
+![keyboard connector pinout](/Keyboard/Galaksija%20keyboard%20connector%20pinout.jpg)
 
 ## Pictures of my build
 
-![PCB](/picture/galaksija-keyboard-rev3-pcb-top.jpg)
+![PCB](/Keyboard/picture/galaksija-keyboard-rev3-pcb-top.jpg)
 
-![Cover](/picture/galaksija-keyboard-rev3-cover.jpg)
+![Cover](/Keyboard/picture/galaksija-keyboard-rev3-cover.jpg)
 
-![PCB assembled](/picture/20220912-alternativ-web.jpg)
+![PCB assembled](/Keyboard/picture/20220912-alternativ-web.jpg)
 
-![My Keyboard](/picture/20220913-neue-tastatur-web.jpg)
+![My Keyboard](/Keyboard/picture/20220913-neue-tastatur-web.jpg)
 
 ## Adapter for Galaksija
 
-![bottom view](/picture/20220829-Galaksija-von-unten-web.jpg)
+![bottom view](/Keyboard/picture/20220829-Galaksija-von-unten-web.jpg)
 
-![Galaksija](/picture/20220829-Tastatur-mit-20poligem-Stecker-web.jpg)
+![Galaksija](/Keyboard/picture/20220829-Tastatur-mit-20poligem-Stecker-web.jpg)
 
-![Modified PS2 adapter](/picture/20220829-PS2-Adapter-von-unten-web.jpg)
+![Modified PS2 adapter](/Keyboard/picture/20220829-PS2-Adapter-von-unten-web.jpg)
 
