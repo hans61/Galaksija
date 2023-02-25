@@ -12,11 +12,11 @@ Bild runter (3) = rechts und runter
 Runter      (2) = runter
 Ende        (1) = links und runter
 
-Zuordnung von Galaksija Tasten
-Galaksija | PS2 Tastatur
-------------------------
-LIST      | ^ 
-REP       | Rollen
-BRK       | F2
-DEL       | F1
+## Zuordnung von Galaksija Tasten
+| Galaksija | PS2 Tastatur |
+|-----------|--------------|
+| LIST      | ^            |
+| REP       | Rollen       |
+| BRK       | F2           |
+| DEL       | F1           |
 
